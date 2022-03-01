@@ -1,0 +1,426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Killychrankie to be sung with its own proper tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03960</idno>
+            <idno type="STC">Wing K476</idno>
+            <idno type="STC">ESTC R179253</idno>
+            <idno type="EEBO-CITATION">52614737</idno>
+            <idno type="OCLC">ocm 52614737</idno>
+            <idno type="VID">175931</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03960)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175931)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2755:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Killychrankie to be sung with its own proper tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Right side of sheet contains: An answer to Killychrankie to be sung with the tune of Killychrankie.</note>
+                  <note>Imperfect: sheet cropped with some loss of text.</note>
+                  <note>Place and date of publication suggested by National Library of Scotland.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, Scots --  17th century.</term>
+               <term>Killiecrankie, Battle of, Scotland, 1689 --  Poetry --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:175931:1"/>
+            <!-- PDF PAGE 36 -->
+            <head>KILLYCHRANKIE</head>
+            <opener>To be ſung with its own proper Tune.</opener>
+            <lg>
+               <l>
+                  <hi>CLAVERS</hi> and his <hi>Highland men,</hi>
+               </l>
+               <l>came down upon the Raw then</l>
+               <l>Who being ſtout gave many Clout</l>
+               <l>The Lads began to claw then,</l>
+               <l>with Sword and Targets <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n their Hands,</l>
+               <l>wherewith <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey were not ſlow then</l>
+               <l>And Cl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nk<g ref="char:punc">▪</g>m Clankim on their Crowns</l>
+               <l>the Lads began to claw then</l>
+            </lg>
+            <lg n="2">
+               <head>2</head>
+               <l>O're brink and Bank o're d<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch and ſtank,</l>
+               <l>her ſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k among them a then</l>
+               <l>The <hi>Butter Box</hi> g<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> many knocks</l>
+               <l>their <hi>Riggars</hi> pey'd for a then<g ref="char:punc">▪</g>
+               </l>
+               <l>They got their pakes with ſudden ſtrakes,</l>
+               <l>which to their grief the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſaw then</l>
+               <l>And double d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uble upon <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir Rumps</l>
+               <l>the lads beg<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> then</l>
+            </lg>
+            <lg n="3">
+               <head>3</head>
+               <l>Her Skipt about, and leant about</l>
+               <l>her <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g among them a then,</l>
+               <l>The <hi>Engliſh</hi> blades got broken Heads,</l>
+               <l>their Crowns her <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ave in twa then,</l>
+               <l>The <hi>Du<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k</hi> and <hi>Door,</hi> made their laſt hour,</l>
+               <l>ſuch was their final fa<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then,</l>
+               <l>They thought the Devil had been there</l>
+               <l>that gave them ſuch a <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw then.</l>
+            </lg>
+            <lg n="4">
+               <head>4</head>
+               <l>
+                  <hi>Jack Presbyter</hi> and's Covenant,</l>
+               <l>came Whigging up the Hill, then,</l>
+               <l>Thought <hi>High land Tr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ws,</hi> would not refuſe</l>
+               <l>for to ſubſcribe his Bill then,</l>
+               <l>In <hi>Willies</hi> name, he thought na one</l>
+               <l>would ſtop the Deed at a, then,</l>
+               <l>But her n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el <hi>Sh<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ck,</hi> with many knock,</l>
+               <l>cry'd, <hi>Wherry Whiggs aw<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, then,</hi>
+               </l>
+            </lg>
+            <lg n="5">
+               <head>5</head>
+               <l>Sir <hi>Hugh M<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>do<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> with his Men true,</l>
+               <l>came Sk<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pping o're the Brink, then,</l>
+               <l>The <hi>Hogan <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> that feared ſuch,</l>
+               <l>they <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a horrid ſtink then,</l>
+               <l>The t<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue <hi>Mcleab,</hi> his gate ha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne,</l>
+               <l>an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> came up<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n a raw, then</l>
+               <l>None could withſtand his heavy hand</l>
+               <l>he ſtrake with ſuch a paw then<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg n="6">
+               <head>6</head>
+               <l>
+                  <hi>Oh on o Ri, oh no o Ri,</hi>
+               </l>
+               <l>why ſhould w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> loſe King <hi>James</hi> then,</l>
+               <l>
+                  <hi>O rigen die, O rigen die!</hi>
+               </l>
+               <l>her break all hims, Banes, then</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ure n<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> but ſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y a while;</l>
+               <l>to ſpeak a word or twa, then,</l>
+               <l>And take a ſtrake upon him's neck,</l>
+               <l>before him gang away, then,</l>
+            </lg>
+            <lg n="7">
+               <head>7</head>
+               <l>Fy for ſhame him's twa for ane,</l>
+               <l>and yet hers win the day, then,</l>
+               <l>King <hi>James</hi> Red Coats ſhould be hang'd up</l>
+               <l>becauſe they fled way, then,</l>
+               <l>Had be<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t him's Brows like <hi>Highland Trews</hi>
+               </l>
+               <l>and made as long a ſtay, then,</l>
+               <l>Her kept her'd King that Sacred thing,</l>
+               <l>and <hi>Willy</hi> had gon away, then</l>
+            </lg>
+            <lg n="8">
+               <head>8</head>
+               <l>Now Shentlemen and Caveleers,</l>
+               <l>come join with her nane ſell, then,</l>
+               <l>For to root out the <hi>Dutch</hi> Recruit,</l>
+               <l>and ding them down to Hell then</l>
+               <l>We'<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l meet at <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne for our King <hi>James;</hi>
+               </l>
+               <l>and think it no great pain then</l>
+               <l>To ſet him on his Royal Thron</l>
+               <l>let each man have his ain then</l>
+            </lg>
+         </div>
+         <div type="ballad">
+            <head>An ANSWER to KILLYCHRANKIE</head>
+            <opener>To be ſung with the Tune of <hi>Kill<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chrankie.</hi>
+            </opener>
+            <lg>
+               <l>YOW <hi>Highland men</hi> with Tongue and Pen</l>
+               <l>what need you ſo to boaſt then,</l>
+               <l>At <hi>Killichrankie</hi> what you wan,</l>
+               <l>it was unto your loſs then,</l>
+               <l>My Lord <hi>Dundee</hi> the beſt of ye,</l>
+               <l>into the Fields did f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then,</l>
+               <l>And great <hi>Pitcurr,</hi> fell in a ſuit</l>
+               <l>who could not win awa then<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>2</head>
+               <l>And at <hi>Du<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kel,</hi> right faſt you fell,</l>
+               <l>tho you thought well to win then,</l>
+               <l>But fy for ſhame I ſcarce can tell,</l>
+               <l>how to the Hills you ran then.</l>
+               <l>O <hi>Fur <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> niſh,</hi> but ſtay a while,</l>
+               <l>to ſpeak a word or twa then,</l>
+               <l>With <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ket Trews, and heavy news,</l>
+               <l>unto the Hills you draw then,</l>
+            </lg>
+            <lg n="3">
+               <head>3</head>
+               <l>At <hi>Crombd<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l-hill,</hi> you got your fill,</l>
+               <l>for you we did not ſpate then,</l>
+               <l>To beſt your Bone till o're the ſtones;</l>
+               <l>you ran with Buttoks bare then,</l>
+               <l>And many crak behind your back,</l>
+               <l>ſenſyne we never ſaw then,</l>
+               <l>Your Fools face hath little Grace,</l>
+               <l>can do no good at a then;</l>
+            </lg>
+            <lg n="4">
+               <head>4</head>
+               <l>The <hi>Buchan</hi> Lairds like unto Cards,</l>
+               <l>planted on <hi>Athole</hi> hills then,</l>
+               <l>Together came, to make a ſham;</l>
+               <l>thinking to get their will then;</l>
+               <l>
+                  <hi>At Aberdeen</hi> they did come in,</l>
+               <l>but there they durſt not ſtay then,</l>
+               <l>Nor make attempt for fear that Hemp:</l>
+               <l>at length their necks ſhould draw then</l>
+            </lg>
+            <lg n="5">
+               <head>5</head>
+               <l>From <hi>Aberdeen</hi> in haſt they hy<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </l>
+               <l>unto <hi>Donoter,</hi> came then,</l>
+               <l>Where Earl of <hi>Marchal</hi> then did ly,</l>
+               <l>a Man of worthy fame then,</l>
+               <l>And General <hi>Buchan</hi> did def<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd,</l>
+               <l>his Houſe that they might have there</l>
+               <l>But he ſo bravely did demand,</l>
+               <l>That they prov'd but like Knaves there,</l>
+            </lg>
+            <lg n="6">
+               <head>6</head>
+               <l>They hois'd up ſail, and turn'd their tail</l>
+               <l>and ſtraight towards the North then.</l>
+               <l>And for to join to get ſome Coyn,</l>
+               <l>fra<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Earl of <hi>Seaforth</hi> then</l>
+               <l>But he was wiſer then they thought;</l>
+               <l>and never thinks to part ſua,</l>
+               <l>With what he got by his good lot,</l>
+               <l>like Fools from thence their way gae.</l>
+            </lg>
+            <lg n="7">
+               <head>7</head>
+               <l>Thet's <hi>Fre<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>de<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>s</hi> Lord, and <hi>Oliphant,</hi>
+               </l>
+               <l>and <hi>Duglaſs</hi> them all three there;</l>
+               <l>We have bereav'd them of their holds</l>
+               <l>no more now they can <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o there.</l>
+               <l>And <hi>Davie Graham</hi> thinks meikle ſhame</l>
+               <l>With the Earl of <hi>Dunkel then</hi>
+               </l>
+               <l>And turn-Coat <hi>Pet,</hi> looks now to bleat</l>
+               <l>himſelf he's like to hang then</l>
+            </lg>
+            <lg n="8">
+               <head>8</head>
+               <l>
+                  <hi>Dumfermling</hi> drives his ſpur-gald Horſe</l>
+               <l>and <hi>Buchan</hi> whips with wand then,</l>
+               <l>
+                  <hi>Cannon</hi> like a weary Corſs</l>
+               <l>follows up the Band then,</l>
+               <l>My lord <hi>Seaforth</hi> flies frae the North</l>
+               <l>unto the Court to dwell there</l>
+               <l>He's made a ſwear for many Year,</l>
+               <l>he never will Rebel mair.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
